@@ -12,7 +12,7 @@ public class HiOne {
 		Scanner in = new Scanner(System.in);
 		System.out.print("What is your name?");
 		String name = in.nextLine();
-		System.out.println("Hi "+ name + ". How are you");
+		System.out.println("Hi "+ name + ". How are you?");
 		//
 		// Below this line, enter code so that this program's output says
 		//      Hi, Pat.  How are you?

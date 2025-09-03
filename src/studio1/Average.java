@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	System.out.print("What is your number?");
 	    int n2 = in.nextInt();
 
-    System.out.print("Average of " + n1 + " and " + n2 + " is " + (double) (n1+n2)/2);
+    System.out.print("The average of " + n1 + " and " + n2 + " is " + (double) (n1+n2)/2);
 
 
 }
